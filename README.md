@@ -1,6 +1,6 @@
 
-##Hello and welcome!<br> 
-feel free to look around :)<br><br>My name is Stella, and I am a first year Frontend design & development student. <br/><br> I’m currently working on the Careers page for a digital design agency, as well as my 2000s themed personal page, Repositorie.<br/><br><br>If you are interested in contacting me, please don't hesitate to send me a message.<br>
+## Hello and welcome!<br> 
+feel free to look around :)<br><br>My name is Stella, and I am a first year Frontend design & development student. <br/><br> I’m currently working on the Careers page for a digital design agency, as well as my 2000s themed personal page, [Repositorie](https://misspastelwitch.github.io/repositorie/).<br/><br><br>If you are interested in contacting me, please don't hesitate to send me a message.<br>
 
 
 # 💻 Tech Stack:
