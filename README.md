@@ -1,6 +1,6 @@
 
 ## Hello and welcome!<br> 
-feel free to look around :)<br><br>My name is Stella, and I am a first year Frontend design & development student. <br/><br> I’m currently working on a project with SRON, the space research organisation of the Netherlands. <br/><br><br>If you are interested in contacting me, please don't hesitate to send me a message.<br>
+feel free to look around :)<br><br>My name is Stella, and I am a recent Frontend design & development graduate and intern. <br/><br><br>If you are interested in contacting me, please don't hesitate to send me a message.<br>
 
 
 # 💻 Tech Stack:
