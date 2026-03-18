@@ -11,16 +11,15 @@
 ---
 
 ## About Me
-
+<img src="./oldweb-friendship.gif" width="50px" /> 
 Hi! I'm **Stella** — a Frontend Design & Development graduate and intern who loves creating beautiful, accessible, and user focused digital experiences.
 
 I specialise in **UX/UI Design** and **Web Accessibility**, and I care deeply about building interfaces that are not only visually delightful but inclusive and accessible for everyone.
 If you'd like to chat or collaborate, don't hesitate to send me a message :)
 
 ---
-
 ## Tech Stack
-
+<img src="./windows-windows-7.gif" width="50px" /> 
 **Design & Prototyping**
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
@@ -47,7 +46,7 @@ If you'd like to chat or collaborate, don't hesitate to send me a message :)
 ---
 
 ## Focus Areas
-
+<img src="./windows-windows-7.gif" width="50px" /> 
 - **Web Accessibility** — semantic HTML, ARIA, WCAG & A11Y adherence
 - **UX/UI Design** — user research, sketching, wireframing, prototyping, design systems
 - **Component-driven development** — Vue, reusable UI patterns
@@ -56,7 +55,7 @@ If you'd like to chat or collaborate, don't hesitate to send me a message :)
 ---
 
 ## GitHub Stats
-
+<img src="./windows-windows-7.gif" width="50px" /> 
 <div align="center">
 
 <img src="https://media.tenor.com/J_8j-iHhUG4AAAAi/pixel-art-star.gif" width="60px" />
@@ -72,9 +71,8 @@ If you'd like to chat or collaborate, don't hesitate to send me a message :)
 ---
 
 <div align="center">
-
+<img src="./pixel-art-pink.gif" width="200px" /> 
+  
 [![](https://visitcount.itsvg.in/api?id=misspastelwitch&icon=5&color=5)](https://visitcount.itsvg.in)
 
-
-![til](./cute.gif)
 </div>
