@@ -1,6 +1,7 @@
 <!-- Header -->
 <div align="center">
 
+![til](./cute.gif)
 # 🌸 Hello & Welcome! 🌸
 
 **Feel free to look around!**
@@ -75,4 +76,5 @@ If you'd like to chat or collaborate, don't hesitate to send me a message :)
 [![](https://visitcount.itsvg.in/api?id=misspastelwitch&icon=5&color=5)](https://visitcount.itsvg.in)
 
 
+![til](./cute.gif)
 </div>
